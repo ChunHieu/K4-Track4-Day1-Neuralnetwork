@@ -7,3 +7,8 @@ data/processed/
 *.pt
 *.pth
 *.ckpt
+*.zip
+.vscode/
+pyrefly.toml
+pyrightconfig.json
+
